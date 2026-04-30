@@ -29,7 +29,7 @@ export const projects = [
 		description: "",
 	},
 	{
-		title: "3. PSD and MBD score above 80",
+		title: "3. PSD and MBD score above 75",
 		description: "*only for 2023 cohort",
 	},
 ];
