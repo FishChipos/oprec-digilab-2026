@@ -205,20 +205,20 @@ const Dashboard = ({
 								<>
 									<div className="mt-4 hidden flex-col items-center lg:flex">
 										<img
-											src="/group_line.jpg"
-											alt="LINE Group QR Code"
+											src="/discord_server.jpg"
+											alt="Discord server QR Code"
 											className="h-64 w-64 rounded-lg shadow-md"
 										/>
-										<h3 className="mt-2 font-medium">Join our LINE Group!!</h3>
+										<h3 className="mt-2 font-medium">Join our Discord server!</h3>
 									</div>
 									<div className="mt-4 flex flex-col items-center lg:hidden">
 										<a
-											href="https://line.me/ti/g/gnEEFqdKqX"
+											href="https://discord.gg/RBTsDRdZMq"
 											target="_blank"
 											rel="noopener noreferrer"
 											className="rounded-lg bg-green-500 px-4 py-2 font-medium text-white shadow-md hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-green-400 focus:ring-opacity-75"
 										>
-											Join LINE Group
+                                            Join Discord server
 										</a>
 									</div>
 								</>
