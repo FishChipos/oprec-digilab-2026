@@ -269,7 +269,7 @@ const ContactsFiles = ({ data }: { data: data | null }) => {
 							/>
 
 							<FileUpload
-								label="Upload Profile Photo"
+								label="Upload Profile Photo (Dark Clothes)"
 								acceptedFileTypes={{
 									"image/jpeg": [".jpg", ".jpeg"],
 									"image/png": [".png"],

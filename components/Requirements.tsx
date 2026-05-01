@@ -29,7 +29,7 @@ export const projects = [
 		description: "",
 	},
 	{
-		title: "3. DSD, PSD, and MBD score above 75",
+		title: "3. Minimum DSD score of 70, Minimum PSD and MBD score of 75",
 		description: "*only for 2023 cohort",
 	},
 ];
