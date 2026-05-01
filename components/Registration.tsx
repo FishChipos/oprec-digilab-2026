@@ -205,7 +205,7 @@ const Dashboard = ({
 								<>
 									<div className="mt-4 hidden flex-col items-center lg:flex">
 										<img
-											src="/discord_server.jpg"
+											src="/discord_server.png"
 											alt="Discord server QR Code"
 											className="h-64 w-64 rounded-lg shadow-md"
 										/>

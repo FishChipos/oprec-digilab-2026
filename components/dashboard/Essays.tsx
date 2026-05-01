@@ -187,7 +187,7 @@ const Essays = ({ data }: { data: data | null }) => {
 			});
 
 			setMessage({
-				text: "Application submitted successfully! Please go back to Dashboard section to join LINE group!",
+				text: "Application submitted successfully! Please go back to Dashboard section to join the Discord server!",
 				type: "success",
 			});
 			router.refresh();
