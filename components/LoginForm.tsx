@@ -111,10 +111,10 @@ export default function LoginForm() {
 
 				<div className="my-8 h-[1px] w-full bg-linear-to-r from-transparent via-neutral-300 to-transparent dark:via-neutral-700" />
 
-				<div className="flex flex-col cursor-pointer items-center space-y-4">
+				<div className="flex flex-col items-center space-y-4">
 					<button
 						type="button"
-						className="group/btn shadow-input relative flex h-10 w-full items-center justify-center space-x-2 rounded-md bg-gray-50 px-4 font-medium text-black dark:bg-zinc-900 dark:shadow-[0px_0px_1px_1px_#262626] disabled:opacity-50"
+						className="group/btn cursor-pointer shadow-input relative flex h-10 w-full items-center justify-center space-x-2 rounded-md bg-gray-50 px-4 font-medium text-black dark:bg-zinc-900 dark:shadow-[0px_0px_1px_1px_#262626] disabled:opacity-50"
 						onClick={handleGoogleLogin}
 						disabled={emailLoginLoading || googleSignInLoading}
 					>
