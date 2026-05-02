@@ -21,7 +21,7 @@ export function Requirements() {
 }
 export const projects = [
 	{
-		title: "1. Computer Engineering Student from the 2023 or 2024 cohort",
+		title: "1. Computer Engineering (Regular and International) Student from the 2024 or 2025 cohort",
 		description: "",
 	},
 	{
